@@ -723,7 +723,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Ev\u00e9n\u00e9ment"
+         "value":"Evenement"
         }, 
         {
          "name":"script",
